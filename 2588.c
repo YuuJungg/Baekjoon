@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-int main()
+int main_2588()
 {
 	int x, y;
 	int res1, res2, res3, res;

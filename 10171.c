@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-int main_y(void)
+int main_10171(void)
 {
     printf("\\    /\\\n");
     printf(" )  ( ')\n");

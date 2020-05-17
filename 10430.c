@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-int main_()
+int main_10430()
 {
 	int a, b, c;
 	scanf_s("%d %d %d", &a, &b, &c);
